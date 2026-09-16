@@ -68,28 +68,28 @@ ABOUT = {
 
 # ---- Meetings ------------------------------------------------
 MEETINGS = {
-    "when": "Thursdays, 3:15 - 4:30 PM",
-    "where": "Room 214",
-    "next_date": "Thursday, September 17",
-    "next_topic": "Pigeonhole principle, and why it keeps showing up",
-    "note": "Come late, leave early, bring food. Nobody takes attendance.",
+    "when": "Wednesdays, 12:15 - 12:50",
+    "where": "Room 205",
+    "next_date": "Wednesday, September 23",
+    "next_topic": "WORK IN PROGRESS (next topic)",
+    "note": "WORK IN PROGRESS",
 }
 
 # ---- Competition calendar (a real sequence, so it is dated) ---
 COMPETITIONS = [
-    {"date": "Nov 6", "name": "AMC 10/12 A", "detail": "Sign up with Ms. Okafor by October 10. Free for members."},
-    {"date": "Nov 12", "name": "AMC 10/12 B", "detail": "Alternate sitting if you have a conflict with the A date."},
-    {"date": "Feb 5", "name": "AIME I", "detail": "Qualify through the AMC. We run two prep sessions in January."},
-    {"date": "Mar 21", "name": "State Math League finals", "detail": "Team of six. Tryouts in February."},
-    {"date": "May 30", "name": "Pi Day Puzzle Hunt", "detail": "We host it. Volunteers needed to write puzzles."},
+    {"date": "Nov 6", "name": "WORK IN PROGRESS", "detail": "WORK IN PROGRESS"},
+    {"date": "Nov 12", "name": "WORK IN PROGRESS", "detail": "WORK IN PROGRESS"},
+    {"date": "Feb 5", "name": "WORK IN PROGRESS", "detail": "WORK IN PROGRESS"},
+    {"date": "Mar 21", "name": "WORK IN PROGRESS", "detail": "WORK IN PROGRESS"},
+    {"date": "May 30", "name": "WORK IN PROGRESS", "detail": "WORK IN PROGRESS"},
 ]
 
 # ---- Officers ------------------------------------------------
 OFFICERS = [
-    {"name": "Your name here", "role": "President", "note": "Grade 12"},
-    {"name": "Your name here", "role": "Vice president", "note": "Grade 11"},
-    {"name": "Your name here", "role": "Treasurer", "note": "Grade 11"},
-    {"name": "Ms. Okafor", "role": "Faculty advisor", "note": "Room 214"},
+    {"name": "WORK IN PROGRESS", "role": "President", "note": "WORK IN PROGRESS"},
+    {"name": "WORK IN PROGRESS", "role": "Vice president", "note": "WORK IN PROGRESS"},
+    {"name": "WORK IN PROGRESS", "role": "Treasurer", "note": "WORK IN PROGRESS"},
+    {"name": "WORK IN PROGRESS", "role": "Faculty advisor", "note": "Room 205"},
 ]
 
 # ---- Resources -----------------------------------------------

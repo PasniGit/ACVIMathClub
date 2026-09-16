@@ -6,12 +6,12 @@
 
 SITE = {
     "club_name": "Math Club",
-    "school": "Riverside High School",
-    "tagline": "We meet every week to argue about problems that don't have obvious answers.",
+    "school": "Anderson CVI",
+    "tagline": "Anderson CVI's very own Math Club.",
     "email": "mathclub@riverside.edu",
-    "instagram": "",          # e.g. "riversidemathclub" - leave "" to hide
+    "instagram": "",          # e.g. "AndersonMathCkub" - leave "" to hide
     "year": "2026-27",
-    "founded": "2014",     # shown in the small line above the club name
+    "founded": "1960",     # shown in the small line above the club name
 }
 
 # ---- The problem that opens the site -------------------------
@@ -31,7 +31,7 @@ PROBLEM_OF_THE_WEEK = {
         "Every row must sum to 15, since the nine numbers total 45. Start by "
         "asking which number has to sit in the center."
     ),
-    "how_to_submit": "Drop your solution in the box outside Room 214, or email it to us.",
+    "how_to_submit": "IN PROGRESS (HOW TO SUMBIT)",
 }
 
 # ---- Past problems (newest first) ----------------------------
